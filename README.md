@@ -4,6 +4,7 @@
           * for School management   
           * <a href="https://moodle.org/">site Link</a>
           * <a href="https://youtu.be/Fd3vLnB6YBU">Playlist Link</a>
+          * <a href="https://www.centennialsoftwaresolutions.com/post/install-node-js-on-windows-7">Node js for win7 </a>
           * 
       * Laravel
           * Laravel is suitable when developing applications with complex backend requirements, whether small or large.
